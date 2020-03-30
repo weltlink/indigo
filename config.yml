@@ -13,3 +13,5 @@ INDIGO_FOOTER_NAV_LINKS:
 INDIGO_FOOTER_LEGAL_LINKS:
     - title: "Terms of service"
       url: "/tos"
+    - title: "Сайт разработан в Raisense"
+      url: "https://raisense.uz"
